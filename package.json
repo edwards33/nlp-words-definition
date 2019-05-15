@@ -1,0 +1,16 @@
+{
+  "name": "nlp-words-definition",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Edward",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^0.6.3",
+    "wordnet-db": "^3.1.11"
+  }
+}
